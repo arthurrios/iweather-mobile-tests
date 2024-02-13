@@ -1,6 +1,5 @@
 /* eslint-disable camelcase */
 import '@libs/dayjs'
-import '@testing-library/jest-native/extend-expect'
 
 import { StatusBar } from 'react-native'
 import { SafeAreaProvider } from 'react-native-safe-area-context'
