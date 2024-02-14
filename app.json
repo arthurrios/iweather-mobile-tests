@@ -21,13 +21,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#13131A"
-      }
+      },
+      "package": "com.arthurrios.iweather"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
       "tsconfigPaths": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d34546cd-eacb-4fa4-bab1-44652817a31a"
+      }
     }
   }
 }
